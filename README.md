@@ -31,7 +31,7 @@ I enjoy turning complex problems into elegant solutions through clean and scalab
 ## 🤝 Let's Connect
 
 - 📫 Email: trangbui19032004@gmail.com
-- 🌐 Portfolio: [View My Work](https://portfolio-two-cyan-15.vercel.app/)
+- 🌐 Portfolio: https://portfolio-two-cyan-15.vercel.app/
 - 💬 Always open for collaboration or freelance frontend projects!
 
 ---
